@@ -1,0 +1,14 @@
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\bin\Debug\net8.0\Day6.exe
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\bin\Debug\net8.0\Day6.deps.json
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\bin\Debug\net8.0\Day6.runtimeconfig.json
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\bin\Debug\net8.0\Day6.dll
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\bin\Debug\net8.0\Day6.pdb
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\Day6.GeneratedMSBuildEditorConfig.editorconfig
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\Day6.AssemblyInfoInputs.cache
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\Day6.AssemblyInfo.cs
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\Day6.csproj.CoreCompileInputs.cache
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\Day6.dll
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\refint\Day6.dll
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\Day6.pdb
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\Day6.genruntimeconfig.cache
+D:\4Csssssssssssss\Full Stack\B__E\oop mamdoh\Day6-20240811T091436Z-001\Day6\Day6\obj\Debug\net8.0\ref\Day6.dll
